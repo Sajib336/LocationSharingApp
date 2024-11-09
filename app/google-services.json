@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "762250211270",
+    "project_id": "locationsharingapp-final-asses",
+    "storage_bucket": "locationsharingapp-final-asses.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762250211270:android:c18f671ea919993b178cc7",
+        "android_client_info": {
+          "package_name": "com.example.locationsharingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhABBwt1rQLg2NrKynR4TeH-WBEf4oYkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

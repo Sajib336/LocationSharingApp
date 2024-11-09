@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LocationSharingApp</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="nav_open">NAV_OPEN\n</string>
+    <string name="nav_close">nav_close\n</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
